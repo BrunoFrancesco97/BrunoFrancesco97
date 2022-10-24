@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Information Technology master student in Ca' Foscari University of Venice<br><br>Cybersecurity curriculum
+Computer Science and Information Technology master student in Ca' Foscari University of Venice, in particular I've choosen Cybersecurity curriculum!
 
 
 ## 🌐 Socials:
