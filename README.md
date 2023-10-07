@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science and Information Technology master student in Ca' Foscari University of Venice, in particular I've been studying **Cybersecurity** curriculum!
+SOC Analysist that also studies Computer Science and Information Technology master student in Ca' Foscari University of Venice!
 
 
 ## 🌐 Socials:
