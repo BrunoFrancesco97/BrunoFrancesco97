@@ -1,5 +1,5 @@
 # 💫 About Me:
-SOC Analysist that also studies Computer Science and Information Technology master student in Ca' Foscari University of Venice!
+SOC Analysist that also studies Computer Science and Information Technology in Ca' Foscari University of Venice!
 
 
 ## 🌐 Socials:
